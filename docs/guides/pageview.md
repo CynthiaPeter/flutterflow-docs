@@ -24,7 +24,7 @@ To follow along, you’d need to [Sign-In](https://app.flutterflow.io/) to a flu
 ## PageView Component in Flutterflow
 The image below shows an onboarding screen that can be created with the PageView component.
 
-![](images/Flutterflow onboarding 1.png)
+![](https://flutterflow.io/images/home_Cropped2x_2.png)
 
 <!-- Add an image showing a sample onboarding screen using the flutterflow onboarding -->
 
