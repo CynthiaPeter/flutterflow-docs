@@ -26,7 +26,7 @@ The image below shows an onboarding screen that can be created with the PageView
 
 ![](images/add-new-page.png)
 
-![](images/Add%20new%20page%20for%20pageview.png
+![](images/Add%20new%20page%20for%20pageview.png)
 
 <!-- Add an image showing a sample onboarding screen using the flutterflow onboarding -->
 
