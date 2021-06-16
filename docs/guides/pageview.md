@@ -26,6 +26,8 @@ The image below shows an onboarding screen that can be created with the PageView
 
 ![](images/add-new-page.png)
 
+![](images/Add%20new%20page%20for%20pageview.png
+
 <!-- Add an image showing a sample onboarding screen using the flutterflow onboarding -->
 
 **Note**: If you don’t have a previous project, you’ll be seeing a screen that prompts you to create a new project or open a previous one. If you open a previous project, you can just add a new screen. 
